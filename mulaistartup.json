@@ -1,28 +1,28 @@
-{
-    [
+{ "data" : [
+    {
         "name": "Tokopedia",
         "description": "Tokopedia merupakan perusahaan teknologi Indonesia dengan misi mencapai pemerataan ekonomi secara digital. Sejak didirikan pada tahun 2009, Tokopedia telah bertransformasi menjadi sebuah unicorn yang berpengaruh tidak hanya di Indonesia tetapi juga di Asia Tenggara.",
         "picture": "https://rilismedia.com/wp-content/uploads/2018/12/tokopedia-logo.jpg"
-    ],
-	[
+    },
+	{
         "name": "Bukalapak",
         "description": "Bukalapak merupakan salah satu pusat perbelanjaan daring (online marketplace) di Indonesia (biasa dikenal juga dengan jaringan toko daring ) yang dimiliki dan dijalankan oleh PT. Bukalapak. Bukalapak didirikan pada 10 Januari 2010 oleh Achmad Zaky, Nugroho Herucahyono, dan Fajrin Rasyid di sebuah rumah kos di Bandung, Jawa Barat.",
         "picture": "https://cdn-image.bisnis.com/posts/2019/02/18/890280/logo-bukalapak.jpeg"
-    ],
-	[
+    },
+	{
         "name": "Shopee",
         "description": "Shopee adalah platform perdagangan elektronik yang berkantor pusat di Singapura di bawah SEA Group (sebelumnya dikenal sebagai Garena), yang didirikan pada 2009 oleh Forrest Li. Shopee pertama kali diluncurkan di Singapura pada tahun 2015, dan sejak itu memperluas jangkauannya ke Malaysia, Thailand, Taiwan, Indonesia, Vietnam, dan Filipina.",
         "picture": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Shopee-logo.jpg"
-    ],
-	[
+    },
+	{
         "name": "Blibli",
         "description": "Blibli.com adalah salah satu situs web perdagangan elektronik di Indonesia. Blibli adalah produk pertama PT Global Digital Niaga yang merupakan anak perusahaan Djarum di bidang digital yang didirikan pada tahun 2010. Blibli bekerja sama dengan penyedia jasa teknologi, mitra logistik, perbankan serta mitra dagang dengan standar tertentu untuk menciptakan sistem back-end yang bisa memenuhi kebutuhan pengguna blibli.",
         "picture": "https://cdn2.tstatic.net/lampung/foto/bank/images/blibli-berikan-promo-baju-lebaran-2019-ada-juga-busana-anak.jpg"
-    ],
-	[
+    },
+	{
         "name": "JD.ID",
         "description": "JD.ID mulai beroperasi di Indonesia sejak Oktober 2015. Pada awalnya, mereka fokus terhadap menyediakan pelanggan dengan produk elektronik dan gadgets yang sulit ditemukan, seperti iPad Pro dari Apple dan A2010 dari Lenovo yang baru launching pada akhir tahun 2015. Sejak itu mereka telah memperluaskan penawaran produk mereka dan memasukkan kategori seperti sepatu dan pakaian olah raga dan juga produk kecantikan dan kesehatan.",
         "picture": "https://cdn0-production-images-kly.akamaized.net/20qwDIUKJT4VBaYDfLvouDJ0_rg=/1280x720/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1531769/original/084936200_1489050861-JD.ID.jpg"
-    ]
-
+    }
+]
 }
